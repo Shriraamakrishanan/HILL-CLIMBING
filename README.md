@@ -40,7 +40,7 @@ Feedback is provided in terms of heuristic function
 <hr>
 <h2>Program</h2>
 
-```
+```PYTHON
 import random
 import string
 
